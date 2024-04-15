@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>My name is Ivanei Alves, I'm a front end developer. Currently developing projects with:</h3>
+<h3>My name is Ivanei Alves, I'm a front-end developer. Currently developing projects with:</h3>
 <br>
 <br>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html"/>
